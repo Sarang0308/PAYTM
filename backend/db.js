@@ -1,7 +1,7 @@
 const mongoose=require("mongoose")
 
 
-const uri = "mongodb+srv://Sarang:1234@cluster1.ratpr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1"; 
+const uri = "replace with your link"; 
 
 // Connect to MongoDB Atlas
 mongoose.connect(uri)
